@@ -1,0 +1,25 @@
+{
+  "name": "decoupled-mobx-stores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "jest": "^24.8.0",
+    "mobx": "^5.10.1",
+    "mobx-state-tree": "^3.14.0",
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.5",
+    "babel-jest": "^24.8.0",
+    "babel-polyfill": "^6.26.0",
+    "jest-config": "^24.8.0"
+  }
+}
